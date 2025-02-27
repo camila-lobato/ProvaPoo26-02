@@ -1,0 +1,14 @@
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\bin\Debug\net8.0\prova26-02.exe
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\bin\Debug\net8.0\prova26-02.deps.json
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\bin\Debug\net8.0\prova26-02.runtimeconfig.json
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\bin\Debug\net8.0\prova26-02.dll
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\bin\Debug\net8.0\prova26-02.pdb
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.AssemblyInfoInputs.cache
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.AssemblyInfo.cs
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.csproj.CoreCompileInputs.cache
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.dll
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\refint\prova26-02.dll
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.pdb
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\prova26-02.genruntimeconfig.cache
+C:\Users\Camila Lobato\OneDrive - ifro.edu.br\Área de Trabalho\IFRO\terceiro período\programação orientada a objeto\prova26-02\obj\Debug\net8.0\ref\prova26-02.dll
